@@ -161,3 +161,4 @@ cython_debug/
 
 data/data.csv.zip
 data/data_cleaned.csv
+data/glove.6B/

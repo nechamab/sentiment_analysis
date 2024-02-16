@@ -35,6 +35,19 @@ Some interesting insights I found concerning tweeting trends:
 
 ![tweetcount](./images/tweet_count_by_day.png)
 
+## Dealing with Class Imbalance
+
+I used RandomOversampler to even out the classes.
+
+Before:
+
+![imbalanced](./images/class_imbalanced.png)
+
+After:
+
+![balanced](./images/class_balanced.png)
+
+
 ## Model Flow 
 
 During the modeling process, I built many models, here are a few of them and their stats:

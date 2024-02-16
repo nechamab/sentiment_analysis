@@ -1,6 +1,10 @@
 # Sentiment Analysis: Real-time Insight into Public Sentiment on Social Media Platforms
 
+We need to in real time, accurately label customer perception on our product or platform. Sentiment Analysis allows us, given a topic, to measure how favorable attitudes are towards a certain product.
+
 ## Business Problem and Understanding
+
+Challenge: Lack of Real-time Insight into Public Sentiment on Social Media Platforms
 
 Customer Perception: Understanding how our target audience feels about our brand, products, or events is crucial for informed decision-making and strategic planning.
 
@@ -9,6 +13,8 @@ Emerging Trends: Without real-time sentiment analysis, we risk missing out on em
 Reputation Management: Proactively managing our online reputation becomes a challenge when we don't have timely insights into public sentiment.
 
 Marketing Strategy: Crafting effective marketing strategies requires a deep understanding of the current sentiment landscape to ensure our messaging aligns with audience expectations.
+
+Solution: Real time tweet sentiment analysis
 
 ## Data Sources
 
